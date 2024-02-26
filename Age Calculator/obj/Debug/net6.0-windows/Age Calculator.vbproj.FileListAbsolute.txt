@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Semester Projects\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.exe
+C:\Users\User\Desktop\Semester Projects\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.deps.json
+C:\Users\User\Desktop\Semester Projects\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.runtimeconfig.json
+C:\Users\User\Desktop\Semester Projects\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.dll
+C:\Users\User\Desktop\Semester Projects\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.pdb
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\Age_Calculator.Form1.resources
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.AssemblyInfo.vb
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.dll
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\refint\Age Calculator.dll
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.pdb
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.genruntimeconfig.cache
+C:\Users\User\Desktop\Semester Projects\Age Calculator\obj\Debug\net6.0-windows\ref\Age Calculator.dll
